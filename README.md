@@ -28,8 +28,7 @@ cd client && npm run build
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Pierce O'Neill
 
 ### Version
 
